@@ -3,6 +3,10 @@
 
 Introduction to Open edX for engineers.
 
+# Single Source of Truth
+The course in Studio is the single source of turth at the moment. This repo currently is a periodic backup to the course in Studio.
+
+In the future we might flip the setup and use this repo as the single source of truth and sync Studio via course export API automation.
 
 # Course Team
 
