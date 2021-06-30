@@ -1,3 +1,5 @@
 <course cert_html_view_enabled="true" display_name="Introduction to Open edX for Engineers" language="en" start="&quot;2030-01-01T00:00:00+00:00&quot;">
-  <wiki slug="appsembler-the-red.OpenedX101.2021"/>
+  <chapter url_name="a294f4cb16d84930ba0fa2b9b3369a10"/>
+  <chapter url_name="a80b62262b834f31bebcc9099e721217"/>
+  <wiki slug="intro-course.OEX101.2021"/>
 </course>

@@ -1,0 +1,13 @@
+<problem display_name="Assignment" markdown="XBlocks contructs most of the course content in edx-platform.&#10;&#10;&gt;&gt;Can you guess which of the following are XBlock components?||Don't worry, this assignment is not graded! &lt;&lt;&#10;&#10;[x] Video in a course&#10;[x] True / False question in a course&#10;[ ] Learner profile page&#10;[x] The course itself&#10;" showanswer="always">
+  <choiceresponse>
+    <p>XBlocks contructs most of the course content in edx-platform.</p>
+    <label>Can you guess which of the following are XBlock components?</label>
+    <description>Don't worry, this assignment is not graded! </description>
+    <checkboxgroup>
+      <choice correct="true">Video in a course</choice>
+      <choice correct="true">True / False question in a course</choice>
+      <choice correct="false">Learner profile page</choice>
+      <choice correct="true">The course itself</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>
