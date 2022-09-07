@@ -12,7 +12,7 @@ In the future we might flip the setup and use this repo as the single source of 
 
  - Author: **[Omar Al-Ithawi](http://github.com/OmarIthawi)** [@Appsembler](https://github.com/appsembler/)
  - Co-author: **[Shadi Naif](http://github.com/shadinaif)**
- - Project Manager: **[Michelle Philbrick](http://github.com/michellephilbrick)** [@edX](https://github.com/edx/)
+ - Project Manager: **[Michelle Philbrick](http://github.com/michellephilbrick)** [@Open_edX](https://github.com/openedx/)
 
 # License and Copyright
 
