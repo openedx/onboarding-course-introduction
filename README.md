@@ -1,3 +1,7 @@
+# This Repository is archived see https://github.com/openedx/training-courses for its replacements.
+
+
+
 # Onboarding Course: Introduction to Open edX
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
